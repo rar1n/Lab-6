@@ -1,0 +1,16 @@
+C:\Users\ilja1\Desktop\Лабораторні\Lab062\Lab062\bin\Debug\net8.0-windows\Lab062.exe
+C:\Users\ilja1\Desktop\Лабораторні\Lab062\Lab062\bin\Debug\net8.0-windows\Lab062.deps.json
+C:\Users\ilja1\Desktop\Лабораторні\Lab062\Lab062\bin\Debug\net8.0-windows\Lab062.runtimeconfig.json
+C:\Users\ilja1\Desktop\Лабораторні\Lab062\Lab062\bin\Debug\net8.0-windows\Lab062.dll
+C:\Users\ilja1\Desktop\Лабораторні\Lab062\Lab062\bin\Debug\net8.0-windows\Lab062.pdb
+C:\Users\ilja1\Desktop\Лабораторні\Lab062\Lab062\obj\Debug\net8.0-windows\Lab062.fMain.resources
+C:\Users\ilja1\Desktop\Лабораторні\Lab062\Lab062\obj\Debug\net8.0-windows\Lab062.csproj.GenerateResource.cache
+C:\Users\ilja1\Desktop\Лабораторні\Lab062\Lab062\obj\Debug\net8.0-windows\Lab062.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilja1\Desktop\Лабораторні\Lab062\Lab062\obj\Debug\net8.0-windows\Lab062.AssemblyInfoInputs.cache
+C:\Users\ilja1\Desktop\Лабораторні\Lab062\Lab062\obj\Debug\net8.0-windows\Lab062.AssemblyInfo.cs
+C:\Users\ilja1\Desktop\Лабораторні\Lab062\Lab062\obj\Debug\net8.0-windows\Lab062.csproj.CoreCompileInputs.cache
+C:\Users\ilja1\Desktop\Лабораторні\Lab062\Lab062\obj\Debug\net8.0-windows\Lab062.dll
+C:\Users\ilja1\Desktop\Лабораторні\Lab062\Lab062\obj\Debug\net8.0-windows\refint\Lab062.dll
+C:\Users\ilja1\Desktop\Лабораторні\Lab062\Lab062\obj\Debug\net8.0-windows\Lab062.pdb
+C:\Users\ilja1\Desktop\Лабораторні\Lab062\Lab062\obj\Debug\net8.0-windows\Lab062.genruntimeconfig.cache
+C:\Users\ilja1\Desktop\Лабораторні\Lab062\Lab062\obj\Debug\net8.0-windows\ref\Lab062.dll
